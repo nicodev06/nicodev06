@@ -6,4 +6,4 @@
 
 
 
-### If you want, you can contact me on [Instagram]("https://instagram.com/nyco_tina") or send me an mailto: [email](mailto:teseonicolo@gmail.com)
+### If you want, you can contact me on [Instagram](https://instagram.com/nyco_tina) or send me an mailto: [email](mailto:teseonicolo@gmail.com)
