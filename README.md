@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @nicodev06
-- 👀 I’m interested in web development, machine learning and penetration testing
-- 🌱 I’m currently learning python and javascript
-- 📫 If you want to reach me send me an email at teseonicolo@gmail.com =)
+- # Who I am?
 
+> I'm ## Nicolò from Rome 🇮🇹
+> I'm a *self learning ✏️ developer* from *2017*
+> I practice ### Web development for now 👀 
+
+#### If you want, you can contact me on [Instagram]("instagram.com/nyco_tina") or send me an [Email]("mailto:teseonicolo@gmail.com")
